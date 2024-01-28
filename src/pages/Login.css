@@ -1,0 +1,8 @@
+.login_bg{
+    background-image: url(../assets/images/letsChat.webp);
+    height:92vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}

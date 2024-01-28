@@ -1,0 +1,15 @@
+.home_bg{
+    background-image: url(../assets/images/frd.jpeg);
+    background-color: aqua;
+    height:92vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+
+}
+
+.home-message-icon{
+    margin-left:10px;
+    display: inline-block;
+}
